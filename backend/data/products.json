@@ -1,0 +1,459 @@
+[{
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "price": 150.32,
+    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 440.57,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3 Laptop",
+    "price": 250.45,
+    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "ASUS VivoBook 15 Laptop",
+    "price": 767.32,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+    "price": 15.46,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 10.12,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "Samsung Galaxy M32",
+    "price": 199.99,
+    "description": "Samsung Galaxy M32 features a stunning AMOLED display with a 90Hz refresh rate, making it perfect for gaming and multimedia.",
+    "ratings": 4.3,
+    "images": [
+      { "image": "/images/products/8.jpg" },
+      { "image": "/images/products/4.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Best Buy",
+    "stock": 18
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": 799.00,
+    "description": "Apple iPhone 13 comes with the powerful A15 Bionic chip, delivering incredible performance and battery life.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "/images/products/9.jpg" },
+      { "image": "/images/products/6.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Apple Store",
+    "stock": 12
+  },
+  {
+    "name": "OnePlus Nord 2T",
+    "price": 299.00,
+    "description": "OnePlus Nord 2T offers a smooth and fast experience with its OxygenOS, paired with a 90Hz AMOLED display.",
+    "ratings": 4.4,
+    "images": [
+      { "image": "/images/products/10.jpg" },
+      { "image": "/images/products/8.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 30
+  },
+  {
+    "name": "Google Pixel 6a",
+    "price": 399.99,
+    "description": "Google Pixel 6a provides a pure Android experience with the latest software updates directly from Google.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "/images/products/11.jpg" },
+      { "image": "/images/products/10.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Google Store",
+    "stock": 7
+  },
+  {
+    "name": "Xiaomi Mi 11 Lite",
+    "price": 279.99,
+    "description": "Xiaomi Mi 11 Lite is ultra-thin and lightweight, yet packed with a powerful Snapdragon 732G processor.",
+    "ratings": 4.2,
+    "images": [
+      { "image": "/images/products/12.jpg" },
+      { "image": "/images/products/.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Xiaomi Store",
+    "stock": 40
+  },
+  {
+    "name": "Realme GT Master Edition",
+    "price": 319.00,
+    "description": "Realme GT Master Edition boasts a unique suitcase design with a 120Hz AMOLED display and 5G support.",
+    "ratings": 4.5,
+    "images": [
+      { "image": "/images/products/13.jpg" },
+      { "image": "/images/products/14.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Realme Store",
+    "stock": 50
+  },
+  {
+    "name": "Motorola Edge 20 Fusion",
+    "price": 249.99,
+    "description": "Motorola Edge 20 Fusion features a 108MP camera system and a large 6.7-inch OLED display.",
+    "ratings": 4.3,
+    "images": [
+      { "image": "/images/products/14.jpg" },
+      { "image": "/images/products/16.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 60
+  },
+  {
+    "name": "Vivo V21 5G",
+    "price": 289.00,
+    "description": "Vivo V21 5G offers excellent selfie capabilities with its 44MP OIS front camera and night mode.",
+    "ratings": 4.4,
+    "images": [
+      { "image": "/images/products/15.jpg" },
+      { "image": "/images/products/18.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Flipkart",
+    "stock": 45
+  },
+  {
+    "name": "Nokia X20",
+    "price": 349.99,
+    "description": "Nokia X20 is built for reliability and longevity, with a robust design and 3 years of software updates.",
+    "ratings": 4.0,
+    "images": [
+      { "image": "/images/products/16.jpg" },
+      { "image": "/images/products/20.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Nokia Store",
+    "stock": 62
+  },
+  {
+    "name": "Sony Xperia 10 III",
+    "price": 429.00,
+    "description": "Sony Xperia 10 III is a compact and powerful smartphone with 5G support and an OLED display.",
+    "ratings": 4.1,
+    "images": [
+      { "image": "/images/products/1.jpg" },
+      { "image": "/images/products/22.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 57
+  },
+  
+  {
+    "name": "Nike Men's Revolution 5 Running Shoes",
+    "price": 45.99,
+    "description": "Lightweight running shoes with soft foam cushioning for a comfortable stride.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/23.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 30
+  },
+  {
+    "name": "Adidas Men's Ultraboost 21",
+    "price": 75.50,
+    "description": "High-performance running shoes with responsive Boost cushioning for energy return.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/24.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Adidas Store",
+    "stock": 20
+  },
+  {
+    "name": "Puma Men's Tazon 6 FM Running Shoes",
+    "price": 39.99,
+    "description": "Durable shoes with a synthetic leather upper and EVA heel pod for shock absorption.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/25.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Puma Store",
+    "stock": 15
+  },
+  {
+    "name": "Reebok Men's Zig Kinetica II Shoes",
+    "price": 65.00,
+    "description": "Innovative running shoes with a bold design and responsive cushioning.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/26.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Reebok Store",
+    "stock": 18
+  },
+  {
+    "name": "Under Armour Men's Charged Assert 9",
+    "price": 49.99,
+    "description": "Versatile running shoes with Charged Cushioning for ultimate comfort and support.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/27.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Under Armour Store",
+    "stock": 22
+  },
+  {
+    "name": "New Balance Men's Fresh Foam Roav V1",
+    "price": 59.99,
+    "description": "Comfortable running shoes with a Fresh Foam midsole for a plush feel.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/28.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "New Balance Store",
+    "stock": 10
+  },
+
+  {
+    "name": "USB Flash Drive",
+    "price": 8.99,
+    "description": "Compact and durable USB flash drive with high-speed data transfer.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/29.jpg"
+      }
+    ],
+    "category": "Hardware",
+    "seller": "Amazon",
+    "stock": 50
+  },
+  {
+    "name": "External Hard Drive",
+    "price": 59.99,
+    "description": "1TB external hard drive with fast USB 3.0 connectivity.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/30.jpg"
+      }
+    ],
+    "category": "Hardware",
+    "seller": "Best Buy",
+    "stock": 30
+  },
+  {
+    "name": "Wireless Mouse",
+    "price": 12.49,
+    "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/31.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Walmart",
+    "stock": 75
+  },
+  {
+    "name": "Keyboard",
+    "price": 19.99,
+    "description": "Mechanical keyboard with customizable RGB lighting.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/32.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Newegg",
+    "stock": 40
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "price": 14.99,
+    "description": "Portable cooling pad with adjustable fan speed for laptops.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/33.jpg"
+      }
+    ],
+    "category": "Hardware",
+    "seller": "Target",
+    "stock": 60
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 29.99,
+    "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/34.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Amazon",
+    "stock": 40
+  },
+  {
+    "name": "Soundbar",
+    "price": 79.99,
+    "description": "2.1 channel soundbar with wireless subwoofer for immersive sound.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/35.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Best Buy",
+    "stock": 30
+  },
+  {
+    "name": "Smart TV",
+    "price": 399.99,
+    "description": "50-inch 4K UHD Smart TV with HDR and voice control.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/36.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Walmart",
+    "stock": 20
+  },
+  {
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "description": "Noise-canceling wireless headphones with up to 30 hours of playtime.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/37.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Newegg",
+    "stock": 50
+  },
+  {
+    "name": "Home Theater Projector",
+    "price": 299.99,
+    "description": "1080p HD projector with 200-inch display capability and built-in speakers.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/38.jpg"
+      }
+    ],
+    "category": "Hardware",
+    "seller": "Target",
+    "stock": 15
+  }
+]
+
